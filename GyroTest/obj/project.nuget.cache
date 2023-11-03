@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0k1vuX45GcTf8o3Wj0RDT9O08kDJX9fqjxSs9L+65YwYX15mj86i7iF2oK67qQjmCH7ZEg3dgI1LZwQ7E/wdbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Milica\\Documents\\Coding\\monogame\\steamworks-api-test\\GyroTest\\GyroTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milica\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Milica\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
